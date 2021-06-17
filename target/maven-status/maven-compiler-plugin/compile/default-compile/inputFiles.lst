@@ -1,0 +1,14 @@
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/controller/ExchangeController.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/Constant.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/exception/ValidationException.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/repository/ExchangeRepository.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/service/ExchangeServiceImpl.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/TaskApplication.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/exception/ErrorMessage.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/helper/FileHelper.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/service/ExchangeService.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/exception/InternalServerException.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/model/Currency.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/controller/HealthcheckController.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/exception/handler/DefaultExceptionHandler.java
+/Users/farzan/Desktop/interview/ecolytiq/ecolytiq/src/main/java/com/example/ecolytiq/security/SecurityConfig.java
